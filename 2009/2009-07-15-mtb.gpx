@@ -1,6 +1,15 @@
-<gpx xmlns="http://www.topografix.com/GPX/1/0" creator="gpx-split" version="1.0"><trk>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2009-07-19T19:39:23Z</time>
+<bounds minlat="57.514199121" minlon="11.944489544" maxlat="58.447916731" maxlon="14.895422626"/>
+<trk>
   <name>134</name>
-<number>7</number>
+<number>11</number>
 <trkseg>
 <trkpt lat="57.609633291" lon="12.075062161">
   <ele>42.435425</ele>
