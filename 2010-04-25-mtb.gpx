@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="MotionX Live" version="1.1">
+  <trk>
+    <name>Track 003</name>
+    <desc>25 apr 2010  3:35 pm</desc>
+    <trkseg>
+      <trkpt lat="57.632202" lon="12.054941">
+        <ele>139.000000</ele>
+        <time>2010-04-25T14:02:17Z</time>
+      </trkpt>
+      <trkpt lat="57.632202" lon="12.054941">
+        <ele>139.000000</ele>
+        <time>2010-04-25T14:02:18Z</time>
+      </trkpt>
+      <trkpt lat="57.632202" lon="12.054941">
+        <ele>139.000000</ele>
+        <time>2010-04-25T14:02:22Z</time>
+      </trkpt>
+      <trkpt lat="57.632217" lon="12.054824">
+        <ele>136.000000</ele>
+        <time>2010-04-25T14:02:26Z</time>
+      </trkpt>
+      <trkpt lat="57.632244" lon="12.054662">
+        <ele>137.000000</ele>
+        <time>2010-04-25T14:02:28Z</time>
+      </trkpt>
+      <trkpt lat="57.632244" lon="12.054662">
+        <ele>137.000000</ele>
+        <time>2010-04-25T14:10:23Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
